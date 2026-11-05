@@ -5,8 +5,8 @@
   "channel": "stable",
   "latest": {
     "version": "0.1.0",
-    "build_number": 19,
-    "revision": "3c24f1439a5ee6fd479a3f7592fe961a602bf24b",
-    "sha256": "26b2704d7c4265e0793dff190596198801531b0d2d1d095222952d1cd7c1b26a"
+    "build_number": 20,
+    "revision": "34f3789b33a4a8c121914cbda256df2486a49bec",
+    "sha256": "4c313f6a0af4f85d855df7fc880ec059c0675d1ae18f946178f09e39d3ab17ba"
   }
 }

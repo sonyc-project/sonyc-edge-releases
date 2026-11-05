@@ -3,5 +3,10 @@
   "app": "sonyc-edge",
   "source": "sonyc-project/sonyc-edge",
   "channel": "stable",
-  "latest": null
+  "latest": {
+    "version": "0.1.0",
+    "build_number": 19,
+    "revision": "3c24f1439a5ee6fd479a3f7592fe961a602bf24b",
+    "sha256": "26b2704d7c4265e0793dff190596198801531b0d2d1d095222952d1cd7c1b26a"
+  }
 }

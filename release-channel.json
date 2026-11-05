@@ -1,0 +1,6 @@
+{
+  "schema": 1,
+  "app": "sonyc-edge",
+  "source": "sonyc-project/sonyc-edge",
+  "channel": "stable"
+}
